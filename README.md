@@ -13,11 +13,11 @@
 #### Есть видео про проекты и мою деятельность, выступления на мероприятиях и интересные гайды.
 
 ### Моё портфолио:
-🏆🤖 [Решение задач на финале НТО ИРС 2026](https://github.com/IvanS297/NTO_IRS_Dream_team_final)
-🏆🚁 [Решение задач на финале НТО БАС 2026](https://github.com/IvanS297/NTO_IRS_Dream_team_final)
-🥈✈️ [Решение задачи на полуфинале НТО ЛР 2026](https://github.com/IvanS297/NTO_LR_Air_machine)
-🧱👁️ [Сортировщик LEGO деталей на Arduino и YOLO v8](https://github.com/IvanS297/yolo_lego_sorter)
-🕹️🦾 [Колесный робот с манипулятором на Arduino и джойстике от PS2](https://github.com/IvanS297/NTO_IRS_Dream_team_final)
+🏆🤖 [Решение задач на финале НТО ИРС 2026](https://github.com/IvanS297/NTO_IRS_Dream_team_final) 
+🏆🚁 [Решение задач на финале НТО БАС 2026](https://github.com/IvanS297/NTO_IRS_Dream_team_final) 
+🥈✈️ [Решение задачи на полуфинале НТО ЛР 2026](https://github.com/IvanS297/NTO_LR_Air_machine) 
+🧱👁️ [Сортировщик LEGO деталей на Arduino и YOLO v8](https://github.com/IvanS297/yolo_lego_sorter) 
+🕹️🦾 [Колесный робот с манипулятором на Arduino и джойстике от PS2](https://github.com/IvanS297/NTO_IRS_Dream_team_final) 
 
 
 #### Недавно освоил полную калибровку IMU сенсоров и все с ними связанное. Есть гайд на [калибровку](https://github.com/IvanS297/IMU_calibration_guide).
