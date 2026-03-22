@@ -18,7 +18,7 @@
 🥈✈️ [Решение задачи на полуфинале НТО ЛР 2026](https://github.com/IvanS297/NTO_LR_Air_machine)  
 🧱👁️ [Сортировщик LEGO деталей на Arduino и YOLO v8](https://github.com/IvanS297/yolo_lego_sorter)  
 🕹️🦾 [Колесный робот с манипулятором на Arduino и джойстике от PS2](https://github.com/IvanS297/Remaster_CarArm)  
-
+🔧📷[Экспериментальная визуальная одометрия для Clover дронов](https://github.com/IvanS297/CloverVOExperemental)
 
 #### Недавно освоил полную калибровку IMU сенсоров и все с ними связанное. Есть гайд на [калибровку](https://github.com/IvanS297/IMU_calibration_guide).
 
