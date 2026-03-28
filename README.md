@@ -25,4 +25,4 @@
 
 ### Статистика:
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanS297&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanS297&show_icons=true&theme=radical&v=1)
