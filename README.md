@@ -25,5 +25,5 @@
 
 ### Статистика:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&commits_year=2020)
+![IvanS297's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanS297&commits_year=2026)
 
