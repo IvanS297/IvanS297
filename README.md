@@ -25,5 +25,5 @@
 
 ### Статистика:
 
-![IvanS297's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanS297&commits_year=2025)
+![IvanS297's GitHub stats](https://github-readme-stats.vercel.app/api?username=IvanS297&commits_year=2026)
 
