@@ -13,7 +13,7 @@
 #### Есть видео про проекты и мою деятельность, выступления на мероприятиях и интересные гайды.
 
 ### Моё портфолио:
-🗾🧭 [Самописная AMCL для ROS2](https://github.com/IvanS297/amcl_ros2)
+🗾🧭 [Самописная AMCL для ROS2](https://github.com/IvanS297/amcl_ros2)  
 🧱👁️ [Сортировщик LEGO деталей на Arduino и YOLO v8](https://github.com/IvanS297/yolo_lego_sorter)  
 🔧📷 [Экспериментальная визуальная одометрия для Clover дронов](https://github.com/IvanS297/CloverVOExperemental)
 
