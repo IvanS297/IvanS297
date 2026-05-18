@@ -14,6 +14,7 @@
 
 ### Моё портфолио:
 🗾🧭 [Самописная AMCL для ROS2](https://github.com/IvanS297/amcl_ros2)  
+⛳🛣️ [Переделанный Frontier Explporation для ROS1 под ROS2](https://github.com/IvanS297/front_explore_ros2)
 🧱👁️ [Сортировщик LEGO деталей на Arduino и YOLO v8](https://github.com/IvanS297/yolo_lego_sorter)  
 🔧📷 [Экспериментальная визуальная одометрия для Clover дронов](https://github.com/IvanS297/CloverVOExperemental)
 
@@ -21,6 +22,7 @@
  - Написал свою экспериментальную визуальную одометрию для дронов от Clover на основе ORB, но по факту подойдёт для всего.
  - Освоил полную калибровку IMU сенсоров и все с ними связанное.
  - Написал свою AMCL ноду для ROS2 Jazzy.
+ - Написал Frontier Exploration для ROS2 робота.
  - Овладел навыками системного администрирования в Ubuntu/Debian.
  - Научился ставить ROS2 на любую систему.
 
