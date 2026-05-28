@@ -26,6 +26,7 @@
  - Написал Frontier Exploration для ROS2 робота.
  - Овладел навыками системного администрирования в Ubuntu/Debian.
  - Научился ставить ROS2 на любую систему.
+ - Написаны бибиотеки на C++ для Raspberry pi для модулей [`DS3231`](https://github.com/IvanS297/DS3231-C-library-for-raspberry-pi), [`HMC5883`](https://github.com/IvanS297/hmc5883l-c-library), [`MPU6050`](https://github.com/IvanS297/mpu6050-c-library) с использованием [`WiringPi`](https://github.com/wiringpi/wiringpi) и [`pigpio`](https://abyz.me.uk/rpi/pigpio/index.html).
 
 ### Статистика:
 
