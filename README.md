@@ -15,21 +15,8 @@
 ### Моё портфолио:
 🔍🔦 [Анти-стекло математический фильтр для 2д лидара](https://github.com/IvanS297/lidar_filter)  
 🤖🚑 [Автономный дифференциальный робот на ROS2, который исследует квартиры или пространства, строит карту, может локализироваться и перемещаться по ней самостоятельно](https://github.com/IvanS297/ROS2-Robot)  
-🗾🧭 [Самописная AMCL для ROS2](https://github.com/IvanS297/amcl_ros2)  
-⛳🛣️ [Переделанный Frontier Exploration для ROS1 под ROS2](https://github.com/IvanS297/front_explore_ros2)  
 🧱👁️ [Сортировщик LEGO деталей на Arduino и YOLO v8](https://github.com/IvanS297/yolo_lego_sorter)  
 🔧📷 [Экспериментальная визуальная одометрия для Clover дронов](https://github.com/IvanS297/CloverVOExperemental)  
-🛠️🧭 [IMU tools](https://github.com/IvanS297/imu_tools_ros2)
-
-#### Достижения:
- - Написал свой математический фильтр для обнаружения и удаления стекла со сканов 2д лидара. Источники: MDPI статьи.  
- - Написал свою экспериментальную визуальную одометрию для дронов от Clover на основе ORB, но по факту подойдёт для всего.
- - Освоил полную калибровку IMU сенсоров и все с ними связанное.
- - Написал свою AMCL ноду для ROS2 Jazzy.
- - Написал Frontier Exploration для ROS2 робота.
- - Овладел навыками системного администрирования в Ubuntu/Debian.
- - Научился ставить ROS2 на любую систему.
- - Написаны бибиотеки на C++ для Raspberry pi для модулей [`DS3231`](https://github.com/IvanS297/DS3231-C-library-for-raspberry-pi), [`HMC5883`](https://github.com/IvanS297/hmc5883l-c-library), [`MPU6050`](https://github.com/IvanS297/mpu6050-c-library) с использованием [`WiringPi`](https://github.com/wiringpi/wiringpi) и [`pigpio`](https://abyz.me.uk/rpi/pigpio/index.html).
 
 ### Статистика:
 
